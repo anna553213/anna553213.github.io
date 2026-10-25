@@ -239,7 +239,9 @@ td {
     max-height: 70px;
     width: auto;
 }
-
+.status{
+    background-color: #f3d17c;
+}
 /*BLOG PAGE*/
 div.blog a {
     display: flex;
